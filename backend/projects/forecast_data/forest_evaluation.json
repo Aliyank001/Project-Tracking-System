@@ -1,0 +1,7 @@
+{
+  "training_projects": 560,
+  "held_out_projects": 140,
+  "delay_accuracy": 0.8642857142857143,
+  "days_late_mae": 5.589278216783561,
+  "final_cost_ratio_mae": 0.050204317704812096
+}
